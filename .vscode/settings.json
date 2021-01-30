@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/repos/Unreal/BullCowGame/BullCowGame-starter-kit/.vs": true,
+		"C:/repos/Unreal/BullCowGame/BullCowGame-starter-kit/.vscode": true,
+		"C:/repos/Unreal/BullCowGame/BullCowGame-starter-kit/Content": true,
+		"C:/repos/Unreal/BullCowGame/BullCowGame-starter-kit/DerivedDataCache": true,
+		"C:/repos/Unreal/BullCowGame/BullCowGame-starter-kit/Intermediate": true,
+		"C:/repos/Unreal/BullCowGame/BullCowGame-starter-kit/Saved": true
+	}
+}
